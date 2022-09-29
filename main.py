@@ -1,6 +1,6 @@
 a = input()
 b = input()
 c = input()
-d = a + b + c
-print(d)
+k = a + b + c
+print(k)
 

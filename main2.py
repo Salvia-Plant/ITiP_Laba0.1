@@ -1,4 +1,5 @@
 print("Hello, dear friend")
-print("FMyLife")
+print("Smile")
 print("I Love swimming")
-print("Hello, world")
+print("Hello, fckr")
+print("Go away")
