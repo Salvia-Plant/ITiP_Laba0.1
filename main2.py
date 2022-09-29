@@ -1,5 +1,5 @@
 print("Hello, dear friend")
-print("Smile")
+print("Smile, please")
 print("I Love swimming")
 print("Hello, fckr")
-print("I love Radiohead")
+print("I love Thom Yorke")
