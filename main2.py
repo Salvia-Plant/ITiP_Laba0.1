@@ -1,3 +1,4 @@
-print("Hello, friend")
-print("FML")
-print("I Love Kanye West")
+print("Hello, dear friend")
+print("FMyLife")
+print("I Love swimming")
+print("Hello, world")
